@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it as follows."
+
+type: dataset
+
+title: "Ao Naga Hate Speech Detection Dataset"
+
+authors:
+  - family-names: "Imchen"
+    given-names: "Limainla"
+  - family-names: "Imsong"
+    given-names: "Moawapang"
+
+version: "1.0"
+
+date-released: 2026-08-29
+
+repository-code: "https://github.com/imchen-sudo/ao-naga-hate-speech-detection"
+
+url: "https://github.com/imchen-sudo/ao-naga-hate-speech-detection"
