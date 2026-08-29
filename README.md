@@ -56,3 +56,14 @@ The dataset is provided in CSV format, containing the text data and correspondin
 
 data/
 └── cleaned_final_ao_naga.csv
+---
+
+## Citation
+If you use the Ao Naga Hate Speech Detection Dataset in your
+research, please cite this dataset as follows:
+
+Limainla Imchen & Moawapang Imsong. (2026).
+Ao Naga Hate Speech Detection Dataset. GitHub.
+
+Repository:
+https://github.com/imchen-sudo/ao-naga-hate-speech-detection
